@@ -1,0 +1,5 @@
+This script will check your Cisco Video Communication Server(s) for unacknowledged alarms,
+it is written for Python3 and should work on any platform with the default Python3 installation
+for more information see below.
+
+http://justanothertechy.com/cisco-video-communication-server-alarm-notification/
